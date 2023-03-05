@@ -1,2 +1,6 @@
 commit conflict
+<<<<<<< HEAD
 tao conflict tu nhanh main
+=======
+tao conflict tu nhan vien C
+>>>>>>> NhanVienC
