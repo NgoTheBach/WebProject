@@ -1,7 +1,7 @@
 Noi dung test NhanVienC
 Tao conflict lan 01
-<<<<<<< HEAD
+
 Bai Tap tao conflict 01
-=======
+
 Bai Tap tao conflict 01 tu main ne
->>>>>>> d16bba1e5d310f0de30cc8bdcc5361860a0d2c52
+
