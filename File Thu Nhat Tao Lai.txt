@@ -1,0 +1,9 @@
+Tao lai file thu nhat sau khi da xoa tu lan truoc
+
+Noi Dung May tinh 01
+
+Noi dung May Tinh 02
+
+Noi dung dung git gui
+
+Noi dung dung de test source tree 01
